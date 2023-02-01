@@ -24,4 +24,22 @@
 
 ## Task 1
 Paper各类型数量分布  
-[img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task1.JPG)  
+![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task1.JPG)  
+
+各方向Paper统计(部分)  
+|  year | 2019 |
+|  ---- | ---- |
+| category_name |  |
+| Artificial Intelligence | 558 |
+|  Computation and Language | 2153 |
+|  Computational Complexity | 131 |
+|  Computational Engineering, Finance, and Science | 108 |
+|  Computational Geometry | 199 |
+|  Computer Science and Game Theory | 281 |
+|  Computer Vision and Pattern Recognition | 5559 |
+|  Computers and Society | 346 |
+|  Cryptography and Security | 1067 |
+|  Data Structures and Algorithms | 711 |
+|  Databases | 282 |
+|  Digital Libraries | 125 |
+|  Discrete Mathematics | 84 |
