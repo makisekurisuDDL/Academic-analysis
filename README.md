@@ -21,7 +21,7 @@
 任务1：论文数量统计：统计2019年全年，计算机各个方向论文数量  
 任务2：论文作者统计：统计所有论文作者出现频率Top10的姓名  
 任务3：论文代码统计：统计所有论文类别下包含源代码论文的数量  
-任务4：论文摘要词云：用文章的摘要制作词云
+任务4：论文摘要词云：使用论文的摘要制作词云
 
 ## Task 1
 Paper各类型数量分布  
@@ -46,15 +46,15 @@ Paper各类型数量分布
 |  Discrete Mathematics | 84 |    
 
 ## Task 2
-对文章最多的分类"cs.CV"中的文章作者频率进行统计计数
+对论文最多的分类"cs.CV"中的论文作者姓名出现次数进行统计，取Top10
 ![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task2.jpg)  
 
 ## Task 3
-对comments和abstract中含github代码链接的文章进行统计，取前十的类别作图  
+对comments和abstract中含github代码链接的论文进行统计，取数量前十的类别制图  
 ![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task3.jpg)
 
 ## Task 4
-对文章最多的三个类型，其所有文章的摘要制作词云  
+对论文最多的三个类型，使用其下所有论文的摘要制作词云  
 ![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/cate1.jpg)  
 ![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/cate2.jpg)  
 ![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/cate3.jpg)  
