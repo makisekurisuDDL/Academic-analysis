@@ -42,4 +42,8 @@ Paper各类型数量分布
 |  Data Structures and Algorithms | 711 |
 |  Databases | 282 |
 |  Digital Libraries | 125 |
-|  Discrete Mathematics | 84 |
+|  Discrete Mathematics | 84 |    
+
+## Task 2
+对文章最多的分类"cs.CV"中的文章作者频率进行统计计数
+![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task2.jpg)
