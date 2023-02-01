@@ -51,3 +51,9 @@ Paper各类型数量分布
 ## Task 3
 对comments和abstract中含github代码链接的文章进行统计，取前十的类别作图  
 ![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task3.jpg)
+
+## Task 4
+对文章最多的三个类型，其所有文章的摘要制作词云  
+![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/cate1.jpg)  
+![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/cate2.jpg)  
+![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/cate3.jpg)  
