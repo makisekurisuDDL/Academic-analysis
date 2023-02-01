@@ -46,4 +46,8 @@ Paper各类型数量分布
 
 ## Task 2
 对文章最多的分类"cs.CV"中的文章作者频率进行统计计数
-![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task2.jpg)
+![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task2.jpg)  
+
+## Task 3
+对comments和abstract中含github代码链接的文章进行统计，取前十的类别作图  
+![img](https://github.com/makisekurisuDDL/img_store/blob/main/Academic-analysis/Task3.jpg)
